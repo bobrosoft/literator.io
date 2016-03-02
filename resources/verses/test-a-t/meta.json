@@ -1,0 +1,10 @@
+{
+  "name": "test-a-t",
+  "fullName": "Test Author",
+  "shortName": "Test A. T.",
+  "birthYear": 1799,
+  "deathYear": 1837,
+  "wikiLink": "http://bobrosoft.com",
+  "originCountry": "ru",
+  "studiedInCountries": ["ru", "ua", "by", "kz"]
+}
