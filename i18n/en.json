@@ -9,8 +9,8 @@
   "VIEW_VERSE_RESULT_SECONDS": "sec.",
   "VIEW_VERSE_ANOTHER_VERSE_BTN": "Another verse",
   "VIEW_VERSE_ANOTHER_VERSE_OF_AUTHOR_BTN": "More of that author",
-  "VIEW_VERSE_CONTROLS_HINT": "Start typing and finish the verse",
-  "VIEW_VERSE_CONTROLS_HINT_IOS": "Tap on screen to start typing and finish the verse",
+  "VIEW_VERSE_CONTROLS_HINT": "Start to type the next word",
+  "VIEW_VERSE_CONTROLS_HINT_IOS": "Tap on screen and start to type the next word",
 
   "VIEW_VERSE_404_MESSAGE": "Verse you're looking for is not exists\nor\nnot yet even written?\n\nCould be...",
 
