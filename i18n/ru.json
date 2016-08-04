@@ -11,11 +11,12 @@
   "VIEW_VERSE_ANOTHER_VERSE_OF_AUTHOR_BTN": "Еще этого автора",
   "VIEW_VERSE_CONTROLS_HINT": "Начните печатать следующее слово",
   "VIEW_VERSE_CONTROLS_HINT_IOS": "Тапните по экрану и начните печатать следующее слово",
+  "VIEW_VERSE_SHARE_TITLE_PRE": "Вспомним",
 
   "VIEW_VERSE_404_MESSAGE": "Стихотворение не найдено\nили\nеще не добавлено.\n\nВсё возможно...",
 
   "VIEW_ABOUT_CREATOR_TITLE": "Идея, реализация и дизайн",
-  "VIEW_ABOUT_CREATOR_NAME": "Толстиков Владимир aka Bobr",
+  "VIEW_ABOUT_CREATOR_NAME": "Владимир Толстиков aka Bobr",
   "VIEW_ABOUT_CONTRIBUTE_TITLE": "Есть что добавить?",
   "VIEW_ABOUT_CONTRIBUTE_APP_REPO": "Репозиторий приложения",
   "VIEW_ABOUT_CONTRIBUTE_VERSES_REPO": "Репозиторий стихов",
