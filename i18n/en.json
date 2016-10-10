@@ -11,6 +11,8 @@
   "VIEW_VERSE_ANOTHER_VERSE_OF_AUTHOR_BTN": "More of that author",
   "VIEW_VERSE_CONTROLS_HINT": "Start to type the next word",
   "VIEW_VERSE_CONTROLS_HINT_IOS": "Tap on screen and start to type the next word",
+  "VIEW_VERSE_SKIP_ACCEPT_BTN": "Skip the poem",
+  "VIEW_VERSE_SKIP_DECLINE_BTN": "Continue",
   "VIEW_VERSE_SHARE_TITLE_PRE": "Let's recall",
 
   "VIEW_VERSE_404_MESSAGE": "Poem you're looking for is not exists\nor\nnot yet even written?\n\nCould be...",
