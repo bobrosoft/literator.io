@@ -4,7 +4,8 @@
   "VIEW_MAIN_START_BTN": "Начать",
 
   "VIEW_VERSE_SHORT_YEAR": "г.",
-  "VIEW_VERSE_RESULT_MESSAGE": "Вы вспомнили за",
+  "VIEW_VERSE_RESULT_LINE_1": "Вы вспомнили",
+  "VIEW_VERSE_RESULT_LINE_3": "за",
   "VIEW_VERSE_RESULT_MINUTES": "мин.",
   "VIEW_VERSE_RESULT_SECONDS": "сек.",
   "VIEW_VERSE_ANOTHER_VERSE_BTN": "Еще стихотворение",
@@ -13,6 +14,8 @@
   "VIEW_VERSE_CONTROLS_HINT_IOS": "Тапните по экрану и начните печатать следующее слово",
   "VIEW_VERSE_SKIP_ACCEPT_BTN": "Пропустить стих",
   "VIEW_VERSE_SKIP_DECLINE_BTN": "Продолжить",
+  "VIEW_VERSE_SHARE_MARK_TITLE": "Поделитесь своей оценкой",
+  "VIEW_VERSE_SHARE_MARK_PRE": "Моя оценка:",
   "VIEW_VERSE_SHARE_TITLE_PRE": "Давайте вспомним",
 
   "VIEW_VERSE_404_MESSAGE": "Стихотворение не найдено\nили\nеще не добавлено.\n\nВсё возможно...",

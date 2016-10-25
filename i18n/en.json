@@ -4,7 +4,8 @@
   "VIEW_MAIN_START_BTN": "Start",
 
   "VIEW_VERSE_SHORT_YEAR": "",
-  "VIEW_VERSE_RESULT_MESSAGE": "You remembered in",
+  "VIEW_VERSE_RESULT_LINE_1": "You remembered",
+  "VIEW_VERSE_RESULT_LINE_3": "in",
   "VIEW_VERSE_RESULT_MINUTES": "min.",
   "VIEW_VERSE_RESULT_SECONDS": "sec.",
   "VIEW_VERSE_ANOTHER_VERSE_BTN": "Another poem",
@@ -13,6 +14,8 @@
   "VIEW_VERSE_CONTROLS_HINT_IOS": "Tap on screen and start to type the next word",
   "VIEW_VERSE_SKIP_ACCEPT_BTN": "Skip the poem",
   "VIEW_VERSE_SKIP_DECLINE_BTN": "Continue",
+  "VIEW_VERSE_SHARE_MARK_TITLE": "Share your mark",
+  "VIEW_VERSE_SHARE_MARK_PRE": "I got",
   "VIEW_VERSE_SHARE_TITLE_PRE": "Let's recall",
 
   "VIEW_VERSE_404_MESSAGE": "Poem you're looking for is not exists\nor\nnot yet even written?\n\nCould be...",
