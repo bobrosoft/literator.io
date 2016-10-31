@@ -274,6 +274,14 @@
       "year": 1828,
       "mood": "happy",
       "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "ya-vstretil-vas",
+      "title": "К. Б.",
+      "description": "(Я встретил вас...)",
+      "year": 1870,
+      "mood": "calm",
+      "authorName": "tyutchev-f-i"
     }
   ]
 }

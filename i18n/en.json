@@ -2,6 +2,7 @@
   "COMMON_APP_NAME": "Literator.io",
 
   "VIEW_MAIN_START_BTN": "Start",
+  "VIEW_MAIN_VERSES_LIST": "List of poems",
 
   "VIEW_VERSE_SHORT_YEAR": "",
   "VIEW_VERSE_RESULT_LINE_1": "You remembered",
@@ -31,6 +32,9 @@
   "VIEW_ABOUT_VERSES_HOW_TO_ADD_LINK": "here.",
   "VIEW_ABOUT_CONTACTS_TITLE": "Questions and suggestions",
   "VIEW_ABOUT_SOCIAL_TITLE": "Follow us in social network",
+
+  "VIEW_CATALOG_TITLE": "List of poems",
+  "VIEW_CATALOG_RANDOM_VERSE_BTN": "Random poem",
 
   "FOOTER_MAIN_PHRASE_LEFT": "Made with",
   "FOOTER_MAIN_PHRASE_RIGHT": "to poetry",
