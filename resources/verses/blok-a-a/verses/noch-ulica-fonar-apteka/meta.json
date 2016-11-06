@@ -2,5 +2,6 @@
   "name": "noch-ulica-fonar-apteka",
   "title": "Ночь, улица, фонарь, аптека…",
   "year": 1912,
-  "mood": "sad"
+  "mood": "sad",
+  "isWellKnown": true
 }

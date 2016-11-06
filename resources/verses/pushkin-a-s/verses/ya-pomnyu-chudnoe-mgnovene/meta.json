@@ -3,5 +3,6 @@
   "title": "К ***",
   "description": "(Я помню чудное мгновенье)",
   "year": 1825,
-  "mood": "happy"
+  "mood": "happy",
+  "isWellKnown": true
 }

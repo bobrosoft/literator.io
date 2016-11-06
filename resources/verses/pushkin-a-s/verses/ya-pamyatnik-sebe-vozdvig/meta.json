@@ -3,5 +3,6 @@
   "title": "Я памятник себе воздвиг нерукотворный",
   "description": "Exegi monumentum",
   "year": 1836,
-  "mood": "calm"
+  "mood": "calm",
+  "isWellKnown": true
 }

@@ -2,5 +2,6 @@
   "name": "charodejkoyu-zimoyu",
   "title": "Чародейкою Зимою…",
   "year": 1852,
-  "mood": "happy"
+  "mood": "happy",
+  "isWellKnown": true
 }

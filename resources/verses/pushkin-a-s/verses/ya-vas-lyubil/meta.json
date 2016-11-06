@@ -2,5 +2,6 @@
   "name": "ya-vas-lyubil",
   "title": "Я вас любил: любовь еще, быть может...",
   "year": 1829,
-  "mood": "sad"
+  "mood": "sad",
+  "isWellKnown": true
 }

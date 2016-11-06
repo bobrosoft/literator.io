@@ -2,5 +2,6 @@
   "name": "pismo-materi",
   "title": "Письмо матери",
   "year": 1924,
-  "mood": "calm"
+  "mood": "calm",
+  "isWellKnown": true
 }

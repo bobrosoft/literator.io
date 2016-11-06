@@ -3,5 +3,6 @@
   "title": "У лукоморья дуб зелёный",
   "description": "Из поэмы \"Руслан и Людмила\"",
   "year": 1820,
-  "mood": "calm"
+  "mood": "calm",
+  "isWellKnown": true
 }

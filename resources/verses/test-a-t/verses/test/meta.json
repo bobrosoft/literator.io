@@ -3,5 +3,6 @@
   "title": "Винни-Пух",
   "description": "Из далекого детства...",
   "year": 1969,
-  "mood": "happy"
+  "mood": "happy",
+  "isWellKnown": true
 }

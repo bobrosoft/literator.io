@@ -3,5 +3,6 @@
   "title": "К. Б.",
   "description": "(Я встретил вас...)",
   "year": 1870,
-  "mood": "calm"
+  "mood": "calm",
+  "isWellKnown": true
 }

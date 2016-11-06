@@ -2,5 +2,6 @@
   "name": "ya-prishel-k-tebe-s-privetom",
   "title": "Я пришел к тебе с приветом...",
   "year": 1843,
-  "mood": "happy"
+  "mood": "happy",
+  "isWellKnown": true
 }

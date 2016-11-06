@@ -2,5 +2,6 @@
   "name": "parus",
   "title": "Парус",
   "year": 1832,
-  "mood": "calm"
+  "mood": "calm",
+  "isWellKnown": true
 }
