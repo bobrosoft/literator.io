@@ -344,6 +344,56 @@
       "authorName": "lermontov-m-yu"
     },
     {
+      "name": "chto-takoe-horosho",
+      "title": "Что такое хорошо и что такое плохо",
+      "year": 1925,
+      "mood": "active",
+      "isWellKnown": true,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
+      "name": "horosho",
+      "title": "Хорошо!",
+      "description": "(отрывок)",
+      "year": 1927,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
+      "name": "lilichka",
+      "title": "Лиличка!",
+      "description": "Вместо письма",
+      "year": 1916,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
+      "name": "nate",
+      "title": "Нате!",
+      "year": 1913,
+      "mood": "active",
+      "isWellKnown": false,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
+      "name": "noch",
+      "title": "Ночь",
+      "year": 1912,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
+      "name": "o-dryani",
+      "title": "О дряни",
+      "year": 1921,
+      "mood": "active",
+      "isWellKnown": false,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
       "name": "stihi-o-sovetskom-pasporte",
       "title": "Стихи о советском паспорте",
       "year": 1929,
@@ -494,7 +544,7 @@
       "authorName": "pushkin-a-s"
     },
     {
-      "name": "prozimnyaya-dorogarok",
+      "name": "zimnyaya-doroga",
       "title": "Зимняя дорога",
       "year": 1826,
       "mood": "calm",
