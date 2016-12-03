@@ -1,12 +1,42 @@
 {
   "authors": [
     {
+      "name": "ahmatova-a-a",
+      "fullName": "Ахматова Анна Андреевна",
+      "shortName": "Ахматова А. А.",
+      "birthYear": 1889,
+      "deathYear": 1966,
+      "wikiLink": "https://ru.wikipedia.org/wiki/%D0%90%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+      "originCountry": "ru",
+      "studiedInCountries": [
+        "ru",
+        "ua",
+        "by",
+        "kz"
+      ]
+    },
+    {
       "name": "blok-a-a",
       "fullName": "Блок Александр Александрович",
       "shortName": "Блок А. А.",
       "birthYear": 1880,
       "deathYear": 1921,
       "wikiLink": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "originCountry": "ru",
+      "studiedInCountries": [
+        "ru",
+        "ua",
+        "by",
+        "kz"
+      ]
+    },
+    {
+      "name": "cvetaeva-m-i",
+      "fullName": "Цветаева Марина Ивановна",
+      "shortName": "Цветаева М. И.",
+      "birthYear": 1892,
+      "deathYear": 1941,
+      "wikiLink": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0",
       "originCountry": "ru",
       "studiedInCountries": [
         "ru",
@@ -91,6 +121,21 @@
       ]
     },
     {
+      "name": "pasternak-b-l",
+      "fullName": "Пастернак Борис Леонидович",
+      "shortName": "Пастернак Б. Л.",
+      "birthYear": 1890,
+      "deathYear": 1960,
+      "wikiLink": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87",
+      "originCountry": "ru",
+      "studiedInCountries": [
+        "ru",
+        "ua",
+        "by",
+        "kz"
+      ]
+    },
+    {
       "name": "pushkin-a-s",
       "fullName": "Пушкин Александр Сергеевич",
       "shortName": "Пушкин А. С.",
@@ -135,6 +180,55 @@
   ],
   "verses": [
     {
+      "name": "a-ty-dumal",
+      "title": "А ты думал - я тоже такая...",
+      "year": 1921,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "ahmatova-a-a"
+    },
+    {
+      "name": "podrazhanie-kafke",
+      "title": "Подражание Кафке",
+      "description": "Другие уводят любимых...",
+      "year": 1960,
+      "mood": "sad",
+      "isWellKnown": false,
+      "authorName": "ahmatova-a-a"
+    },
+    {
+      "name": "provodila-druga-do-perednej",
+      "title": "Проводила друга до передней...",
+      "year": 1913,
+      "mood": "sad",
+      "isWellKnown": false,
+      "authorName": "ahmatova-a-a"
+    },
+    {
+      "name": "smyatenie",
+      "title": "Смятение",
+      "year": 1913,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "ahmatova-a-a"
+    },
+    {
+      "name": "szhala-ruki",
+      "title": "Сжала руки под темной вуалью...",
+      "year": 1911,
+      "mood": "sad",
+      "isWellKnown": false,
+      "authorName": "ahmatova-a-a"
+    },
+    {
+      "name": "ya-nauchilas-prosto",
+      "title": "Я научилась просто, мудро жить",
+      "year": 1912,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "ahmatova-a-a"
+    },
+    {
       "name": "devushka-pela-v-cerkovnom-hore",
       "title": "Девушка пела в церковном хоре",
       "year": 1905,
@@ -173,6 +267,46 @@
       "mood": "sad",
       "isWellKnown": false,
       "authorName": "blok-a-a"
+    },
+    {
+      "name": "imya-tvoe-ptica-v-ruke",
+      "title": "Имя твое — птица в руке...",
+      "year": 1916,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "cvetaeva-m-i"
+    },
+    {
+      "name": "kaby-nas-s-toboj-da-sudba",
+      "title": "Кабы нас с тобой — да судьба свела...",
+      "year": 1916,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "cvetaeva-m-i"
+    },
+    {
+      "name": "legkomyslie-milyj-grekh",
+      "title": "Легкомыслие — милый грех",
+      "year": 1915,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "cvetaeva-m-i"
+    },
+    {
+      "name": "mne-nravitsya-chto-vy-bolny",
+      "title": "Мне нравится, что вы больны не мной",
+      "year": 1915,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "cvetaeva-m-i"
+    },
+    {
+      "name": "v-ogromnom-gorode-moem",
+      "title": "В огромном городе моем - ночь...",
+      "year": 1916,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "cvetaeva-m-i"
     },
     {
       "name": "da-teper-resheno",
@@ -433,6 +567,49 @@
       "mood": "calm",
       "isWellKnown": false,
       "authorName": "nekrasov-n-a"
+    },
+    {
+      "name": "gamlet",
+      "title": "Гамлет",
+      "year": 1946,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pasternak-b-l"
+    },
+    {
+      "name": "gefsimanskij-sad",
+      "title": "Гефсиманский сад",
+      "description": "Из романа «Доктор Живаго»",
+      "year": 1949,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pasternak-b-l"
+    },
+    {
+      "name": "osen",
+      "title": "Осень",
+      "year": 1949,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pasternak-b-l"
+    },
+    {
+      "name": "rozhdestvenskaya-zvezda",
+      "title": "Рождественская звезда",
+      "description": "Из романа «Доктор Живаго»",
+      "year": 1947,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pasternak-b-l"
+    },
+    {
+      "name": "zimnyaya-noch",
+      "title": "Зимняя ночь",
+      "description": "Из романа «Доктор Живаго»",
+      "year": 1946,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "pasternak-b-l"
     },
     {
       "name": "bezumnyh-let-ugasshee",
