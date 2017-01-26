@@ -31,10 +31,12 @@
   "VIEW_ABOUT_VERSES_HOW_TO_ADD": "Didn't find your favorite poem? You could add it",
   "VIEW_ABOUT_VERSES_HOW_TO_ADD_LINK": "here.",
   "VIEW_ABOUT_CONTACTS_TITLE": "Questions and suggestions",
-  "VIEW_ABOUT_SOCIAL_TITLE": "Follow us in social network",
+  "VIEW_ABOUT_SOCIAL_TITLE": "Follow us in social networks",
 
   "VIEW_CATALOG_TITLE": "List of poems",
   "VIEW_CATALOG_RANDOM_VERSE_BTN": "Random poem",
+  "VIEW_CATALOG_DISCLAIMER_LINE_1": "To be continued...",
+  "VIEW_CATALOG_DISCLAIMER_LINE_2": "Didn't find your favorite poem? Write to",
 
   "FOOTER_MAIN_PHRASE_LEFT": "Made with",
   "FOOTER_MAIN_PHRASE_RIGHT": "to poetry",
