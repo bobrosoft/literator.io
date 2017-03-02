@@ -3,6 +3,10 @@
 
   "VIEW_MAIN_START_BTN": "Начать",
   "VIEW_MAIN_VERSES_LIST": "Список стихов",
+  "VIEW_MAIN_WE_IN": "Мы в",
+  "VIEW_MAIN_SUPPORT_PROJECT": "Поддержать проект",
+  "VIEW_MAIN_SHARE": "Поделиться",
+  "VIEW_MAIN_SHARE_TITLE": "Literator.io — вспоминаем любимые стихи вместе!",
 
   "VIEW_VERSE_SHORT_YEAR": "г.",
   "VIEW_VERSE_RESULT_LINE_1": "Вы вспомнили",
@@ -28,15 +32,24 @@
   "VIEW_ABOUT_CONTRIBUTE_VERSES_REPO": "Репозиторий стихов",
   "VIEW_ABOUT_VERSES_TITLE": "Стихи",
   "VIEW_ABOUT_VERSES_DISCLAIMER": "Все стихи и литературные произведения, представленные на сайте, являются всемирным общественным достоянием.",
-  "VIEW_ABOUT_VERSES_HOW_TO_ADD": "Не нашли любимое стихотворение? Вы можете добавить его",
+  "VIEW_ABOUT_VERSES_HOW_TO_ADD": "Не нашли любимое стихотворение? Можете оставить запрос на добавление",
   "VIEW_ABOUT_VERSES_HOW_TO_ADD_LINK": "здесь.",
   "VIEW_ABOUT_CONTACTS_TITLE": "Вопросы и предложения",
-  "VIEW_ABOUT_SOCIAL_TITLE": "Следите за новостями в",
+  "VIEW_ABOUT_CONTACTS_LINK": "писать здесь",
+  "VIEW_ABOUT_SOCIAL_TITLE": "Следите за новостями",
+  "VIEW_ABOUT_SUPPORT_THE_PROJECT": "Поддержать проект",
 
   "VIEW_CATALOG_TITLE": "Список стихов",
   "VIEW_CATALOG_RANDOM_VERSE_BTN": "Случайное стихотворение",
   "VIEW_CATALOG_DISCLAIMER_LINE_1": "Список дополняется...",
-  "VIEW_CATALOG_DISCLAIMER_LINE_2": "Не нашли любимого стихотворения? Пишите на",
+  "VIEW_CATALOG_DISCLAIMER_LINE_2": "Не нашли любимого стихотворения? Оставьте",
+  "VIEW_CATALOG_DISCLAIMER_LINE_2_LINK": "запрос на добавление.",
+
+  "VIEW_SUPPORT_TITLE": "Поддержать проект",
+  "VIEW_SUPPORT_SHARE_TITLE": "Рассказать друзьям",
+  "VIEW_SUPPORT_DONATE_TITLE": "Пожертвовать на развитие",
+  "VIEW_SUPPORT_DONATE_PAYPAL": "PayPal",
+  "VIEW_SUPPORT_DONATE_YANDEX": "Яндекс.Деньги",
 
   "FOOTER_MAIN_PHRASE_LEFT": "Сделано с",
   "FOOTER_MAIN_PHRASE_RIGHT": "к поэзии",

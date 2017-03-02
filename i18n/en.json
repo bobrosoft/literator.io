@@ -3,6 +3,10 @@
 
   "VIEW_MAIN_START_BTN": "Start",
   "VIEW_MAIN_VERSES_LIST": "List of poems",
+  "VIEW_MAIN_WE_IN": "Follow in",
+  "VIEW_MAIN_SUPPORT_PROJECT": "Support the project",
+  "VIEW_MAIN_SHARE": "Share",
+  "VIEW_MAIN_SHARE_TITLE": "Literator.io — let's remember favorite poems together!",
 
   "VIEW_VERSE_SHORT_YEAR": "",
   "VIEW_VERSE_RESULT_LINE_1": "You remembered",
@@ -28,15 +32,24 @@
   "VIEW_ABOUT_CONTRIBUTE_VERSES_REPO": "Poems repository",
   "VIEW_ABOUT_VERSES_TITLE": "Poems",
   "VIEW_ABOUT_VERSES_DISCLAIMER": "All poems and verses from this site are in Public Domain and belong to all the people of the world.",
-  "VIEW_ABOUT_VERSES_HOW_TO_ADD": "Didn't find your favorite poem? You could add it",
+  "VIEW_ABOUT_VERSES_HOW_TO_ADD": "Didn't find your favorite poem? You can request it",
   "VIEW_ABOUT_VERSES_HOW_TO_ADD_LINK": "here.",
   "VIEW_ABOUT_CONTACTS_TITLE": "Questions and suggestions",
-  "VIEW_ABOUT_SOCIAL_TITLE": "Follow us in social networks",
+  "VIEW_ABOUT_CONTACTS_LINK": "write here",
+  "VIEW_ABOUT_SOCIAL_TITLE": "Follow us for updates",
+  "VIEW_ABOUT_SUPPORT_THE_PROJECT": "Support the Project",
 
   "VIEW_CATALOG_TITLE": "List of poems",
   "VIEW_CATALOG_RANDOM_VERSE_BTN": "Random poem",
   "VIEW_CATALOG_DISCLAIMER_LINE_1": "To be continued...",
-  "VIEW_CATALOG_DISCLAIMER_LINE_2": "Didn't find your favorite poem? Write to",
+  "VIEW_CATALOG_DISCLAIMER_LINE_2": "Didn't find your favorite poem? You can",
+  "VIEW_CATALOG_DISCLAIMER_LINE_2_LINK": "request it here.",
+
+  "VIEW_SUPPORT_TITLE": "Support the Project",
+  "VIEW_SUPPORT_SHARE_TITLE": "Share with people",
+  "VIEW_SUPPORT_DONATE_TITLE": "Donate",
+  "VIEW_SUPPORT_DONATE_PAYPAL": "PayPal",
+  "VIEW_SUPPORT_DONATE_YANDEX": "Yandex.Money",
 
   "FOOTER_MAIN_PHRASE_LEFT": "Made with",
   "FOOTER_MAIN_PHRASE_RIGHT": "to poetry",
