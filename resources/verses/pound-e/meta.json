@@ -1,0 +1,10 @@
+{
+  "name": "pound-e",
+  "fullName": "Ezra Pound",
+  "shortName": "Ezra Pound",
+  "birthYear": 1885,
+  "deathYear": 1972,
+  "wikiLink": "https://en.wikipedia.org/wiki/Ezra_Pound",
+  "originCountry": "us",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

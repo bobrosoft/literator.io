@@ -1,0 +1,10 @@
+{
+  "name": "henley-w-e",
+  "fullName": "William Ernest Henley",
+  "shortName": "William Ernest Henley",
+  "birthYear": 1849,
+  "deathYear": 1903,
+  "wikiLink": "https://en.wikipedia.org/wiki/William_Ernest_Henley",
+  "originCountry": "en",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

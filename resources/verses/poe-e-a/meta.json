@@ -1,0 +1,10 @@
+{
+  "name": "poe-e-a",
+  "fullName": "Edgar Allan Poe",
+  "shortName": "Edgar Allan Poe",
+  "birthYear": 1809,
+  "deathYear": 1849,
+  "wikiLink": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+  "originCountry": "us",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

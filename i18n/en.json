@@ -4,7 +4,7 @@
   "VIEW_MAIN_START_BTN": "Start",
   "VIEW_MAIN_VERSES_LIST": "List of poems",
   "VIEW_MAIN_WE_IN": "Follow in",
-  "VIEW_MAIN_SUPPORT_PROJECT": "Support the project",
+  "VIEW_MAIN_SUPPORT_PROJECT": "Support",
   "VIEW_MAIN_SHARE": "Share",
   "VIEW_MAIN_SHARE_TITLE": "Literator.io — let's remember favorite poems together!",
 
@@ -25,7 +25,7 @@
 
   "VIEW_VERSE_404_MESSAGE": "Poem you're looking for is not exists\nor\nnot yet even written?\n\nCould be...",
 
-  "VIEW_ABOUT_CREATOR_TITLE": "Idea, Development and Design",
+  "VIEW_ABOUT_CREATOR_TITLE": "Idea, Design and Development",
   "VIEW_ABOUT_CREATOR_NAME": "Vladimir Tolstikov aka Bobr",
   "VIEW_ABOUT_CONTRIBUTE_TITLE": "Have something to add?",
   "VIEW_ABOUT_CONTRIBUTE_APP_REPO": "App repository",

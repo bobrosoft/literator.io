@@ -1,0 +1,10 @@
+{
+  "name": "thomas-d",
+  "fullName": "Dylan Thomas",
+  "shortName": "Dylan Thomas",
+  "birthYear": 1801,
+  "deathYear": 1953,
+  "wikiLink": "https://en.wikipedia.org/wiki/Dylan_Thomas",
+  "originCountry": "en",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

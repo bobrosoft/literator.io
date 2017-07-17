@@ -61,6 +61,12 @@
     // Add info about author to structure
     finalStructure.authors.push(authorMeta);
 
+    // Check for "verses" directory
+    if (!nodeFs.existsSync(authorFullPath + nodePath.sep + 'verses')) {
+      reportValidationError('directory "verses" not found');
+      return;
+    }
+
     // Go through all verses
     nodeFs.readdirSync(authorFullPath + nodePath.sep + 'verses').forEach(function(verseDir) {
       var verseFullPath = authorFullPath + nodePath.sep + 'verses' + nodePath.sep + verseDir;

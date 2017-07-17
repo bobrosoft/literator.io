@@ -1,0 +1,10 @@
+{
+  "name": "angelou-m",
+  "fullName": "Maya Angelou",
+  "shortName": "Maya Angelou",
+  "birthYear": 1928,
+  "deathYear": 2014,
+  "wikiLink": "https://en.wikipedia.org/wiki/Maya_Angelou",
+  "originCountry": "us",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

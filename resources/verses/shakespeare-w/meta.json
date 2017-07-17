@@ -1,0 +1,10 @@
+{
+  "name": "shakespeare-w",
+  "fullName": "William Shakespeare",
+  "shortName": "William Shakespeare",
+  "birthYear": 1564,
+  "deathYear": 1616,
+  "wikiLink": "https://en.wikipedia.org/wiki/William_Shakespeare",
+  "originCountry": "en",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

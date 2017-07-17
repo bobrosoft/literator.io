@@ -1,0 +1,10 @@
+{
+  "name": "blake-w",
+  "fullName": "William Blake",
+  "shortName": "William Blake",
+  "birthYear": 1757,
+  "deathYear": 1827,
+  "wikiLink": "https://en.wikipedia.org/wiki/William_Blake",
+  "originCountry": "us",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

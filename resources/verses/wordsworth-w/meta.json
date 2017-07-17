@@ -1,0 +1,10 @@
+{
+  "name": "barnes-w",
+  "fullName": "William Wordsworth",
+  "shortName": "William Wordsworth",
+  "birthYear": 1770,
+  "deathYear": 1850,
+  "wikiLink": "https://en.wikipedia.org/wiki/William_Wordsworth",
+  "originCountry": "en",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

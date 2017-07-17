@@ -1,0 +1,10 @@
+{
+  "name": "dickinson-e",
+  "fullName": "Emily Dickinson",
+  "shortName": "Emily Dickinson",
+  "birthYear": 1830,
+  "deathYear": 1886,
+  "wikiLink": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+  "originCountry": "us",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

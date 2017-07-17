@@ -1,0 +1,10 @@
+{
+  "name": "frost-r-l",
+  "fullName": "Robert Frost",
+  "shortName": "Robert Frost",
+  "birthYear": 1874,
+  "deathYear": 1963,
+  "wikiLink": "https://en.wikipedia.org/wiki/Robert_Frost",
+  "originCountry": "us",
+  "studiedInCountries": ["us", "en", "ie", "nz", "au"]
+}

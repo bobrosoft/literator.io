@@ -16,6 +16,54 @@
       ]
     },
     {
+      "name": "angelou-m",
+      "fullName": "Maya Angelou",
+      "shortName": "Maya Angelou",
+      "birthYear": 1928,
+      "deathYear": 2014,
+      "wikiLink": "https://en.wikipedia.org/wiki/Maya_Angelou",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
+      "name": "barnes-w",
+      "fullName": "William Barnes",
+      "shortName": "William Barnes",
+      "birthYear": 1801,
+      "deathYear": 1886,
+      "wikiLink": "https://en.wikipedia.org/wiki/William_Barnes",
+      "originCountry": "en",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
+      "name": "blake-w",
+      "fullName": "William Blake",
+      "shortName": "William Blake",
+      "birthYear": 1757,
+      "deathYear": 1827,
+      "wikiLink": "https://en.wikipedia.org/wiki/William_Blake",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
       "name": "blok-a-a",
       "fullName": "Блок Александр Александрович",
       "shortName": "Блок А. А.",
@@ -31,6 +79,38 @@
       ]
     },
     {
+      "name": "brooks-g",
+      "fullName": "Gwendolyn Brooks",
+      "shortName": "Gwendolyn Brooks",
+      "birthYear": 1917,
+      "deathYear": 2000,
+      "wikiLink": "https://en.wikipedia.org/wiki/Gwendolyn_Brooks",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
+      "name": "cummings-e-e",
+      "fullName": "Edward Estlin Cummings",
+      "shortName": "E. E. Cummings",
+      "birthYear": 1894,
+      "deathYear": 1962,
+      "wikiLink": "https://en.wikipedia.org/wiki/E._E._Cummings",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
       "name": "cvetaeva-m-i",
       "fullName": "Цветаева Марина Ивановна",
       "shortName": "Цветаева М. И.",
@@ -43,6 +123,22 @@
         "ua",
         "by",
         "kz"
+      ]
+    },
+    {
+      "name": "dickinson-e",
+      "fullName": "Emily Dickinson",
+      "shortName": "Emily Dickinson",
+      "birthYear": 1830,
+      "deathYear": 1886,
+      "wikiLink": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
       ]
     },
     {
@@ -73,6 +169,54 @@
         "ua",
         "by",
         "kz"
+      ]
+    },
+    {
+      "name": "frost-r-l",
+      "fullName": "Robert Frost",
+      "shortName": "Robert Frost",
+      "birthYear": 1874,
+      "deathYear": 1963,
+      "wikiLink": "https://en.wikipedia.org/wiki/Robert_Frost",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
+      "name": "henley-w-e",
+      "fullName": "William Ernest Henley",
+      "shortName": "William Ernest Henley",
+      "birthYear": 1849,
+      "deathYear": 1903,
+      "wikiLink": "https://en.wikipedia.org/wiki/William_Ernest_Henley",
+      "originCountry": "en",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
+      "name": "hughes-l",
+      "fullName": "Langston Hughes",
+      "shortName": "Langston Hughes",
+      "birthYear": 1902,
+      "deathYear": 1967,
+      "wikiLink": "https://en.wikipedia.org/wiki/Langston_Hughes",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
       ]
     },
     {
@@ -136,6 +280,38 @@
       ]
     },
     {
+      "name": "poe-e-a",
+      "fullName": "Edgar Allan Poe",
+      "shortName": "Edgar Allan Poe",
+      "birthYear": 1809,
+      "deathYear": 1849,
+      "wikiLink": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
+      "name": "pound-e",
+      "fullName": "Ezra Pound",
+      "shortName": "Ezra Pound",
+      "birthYear": 1885,
+      "deathYear": 1972,
+      "wikiLink": "https://en.wikipedia.org/wiki/Ezra_Pound",
+      "originCountry": "us",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
       "name": "pushkin-a-s",
       "fullName": "Пушкин Александр Сергеевич",
       "shortName": "Пушкин А. С.",
@@ -151,6 +327,22 @@
       ]
     },
     {
+      "name": "shakespeare-w",
+      "fullName": "William Shakespeare",
+      "shortName": "William Shakespeare",
+      "birthYear": 1564,
+      "deathYear": 1616,
+      "wikiLink": "https://en.wikipedia.org/wiki/William_Shakespeare",
+      "originCountry": "en",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
+      ]
+    },
+    {
       "name": "test-a-t",
       "fullName": "Test Author",
       "shortName": "Test A. T.",
@@ -160,6 +352,22 @@
       "originCountry": "ru",
       "studiedInCountries": [
         "ru"
+      ]
+    },
+    {
+      "name": "thomas-d",
+      "fullName": "Dylan Thomas",
+      "shortName": "Dylan Thomas",
+      "birthYear": 1801,
+      "deathYear": 1953,
+      "wikiLink": "https://en.wikipedia.org/wiki/Dylan_Thomas",
+      "originCountry": "en",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
       ]
     },
     {
@@ -175,6 +383,22 @@
         "ua",
         "by",
         "kz"
+      ]
+    },
+    {
+      "name": "barnes-w",
+      "fullName": "William Wordsworth",
+      "shortName": "William Wordsworth",
+      "birthYear": 1770,
+      "deathYear": 1850,
+      "wikiLink": "https://en.wikipedia.org/wiki/William_Wordsworth",
+      "originCountry": "en",
+      "studiedInCountries": [
+        "us",
+        "en",
+        "ie",
+        "nz",
+        "au"
       ]
     }
   ],
@@ -229,6 +453,54 @@
       "authorName": "ahmatova-a-a"
     },
     {
+      "name": "caged-bird",
+      "title": "I Know Why the Caged Bird Sings",
+      "year": 1969,
+      "mood": "sad",
+      "isWellKnown": true,
+      "authorName": "angelou-m"
+    },
+    {
+      "name": "phenomenal-woman",
+      "title": "Phenomenal Woman",
+      "year": 1995,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "angelou-m"
+    },
+    {
+      "name": "still-i-rise",
+      "title": "Still I Rise",
+      "year": 1978,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "angelou-m"
+    },
+    {
+      "name": "the-surprise",
+      "title": "The Surprise",
+      "year": 1844,
+      "mood": "happy",
+      "isWellKnown": true,
+      "authorName": "barnes-w"
+    },
+    {
+      "name": "a-poison-tree",
+      "title": "A Poison Tree",
+      "year": 1794,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "blake-w"
+    },
+    {
+      "name": "the-tyger",
+      "title": "The Tyger",
+      "year": 1794,
+      "mood": "active",
+      "isWellKnown": true,
+      "authorName": "blake-w"
+    },
+    {
       "name": "devushka-pela-v-cerkovnom-hore",
       "title": "Девушка пела в церковном хоре",
       "year": 1905,
@@ -269,6 +541,38 @@
       "authorName": "blok-a-a"
     },
     {
+      "name": "the-mother",
+      "title": "The Mother",
+      "year": 1963,
+      "mood": "sad",
+      "isWellKnown": true,
+      "authorName": "brooks-g"
+    },
+    {
+      "name": "we-real-cool",
+      "title": "We Real Cool",
+      "year": 1959,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "brooks-g"
+    },
+    {
+      "name": "a-pretty-a-day",
+      "title": "A pretty a day",
+      "year": 1940,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "cummings-e-e"
+    },
+    {
+      "name": "i-carry-your-heart-with-me",
+      "title": "I carry your heart with me",
+      "year": 1952,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "cummings-e-e"
+    },
+    {
       "name": "imya-tvoe-ptica-v-ruke",
       "title": "Имя твое — птица в руке...",
       "year": 1916,
@@ -307,6 +611,38 @@
       "mood": "calm",
       "isWellKnown": false,
       "authorName": "cvetaeva-m-i"
+    },
+    {
+      "name": "hope-is-the-thing-with-feathers",
+      "title": "Hope Is The Thing With Feathers",
+      "year": 1891,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "dickinson-e"
+    },
+    {
+      "name": "if-i-can-stop-one-heart-from-breaking",
+      "title": "If I can stop one heart from breaking",
+      "year": 1864,
+      "mood": "sad",
+      "isWellKnown": true,
+      "authorName": "dickinson-e"
+    },
+    {
+      "name": "im-nobody-who-are-you",
+      "title": "I’m Nobody! Who are you?",
+      "year": 1891,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "dickinson-e"
+    },
+    {
+      "name": "success-is-counted-sweetest",
+      "title": "Success is counted sweetest",
+      "year": 1864,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "dickinson-e"
     },
     {
       "name": "da-teper-resheno",
@@ -404,6 +740,62 @@
       "mood": "happy",
       "isWellKnown": true,
       "authorName": "fet-a-a"
+    },
+    {
+      "name": "fire-and-ice",
+      "title": "Fire and Ice",
+      "year": 1920,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "frost-r-l"
+    },
+    {
+      "name": "stopping-by-woods",
+      "title": "Stopping by Woods on a Snowy Evening",
+      "year": 1922,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "frost-r-l"
+    },
+    {
+      "name": "the-road-not-taken",
+      "title": "The Road Not Taken",
+      "year": 1916,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "frost-r-l"
+    },
+    {
+      "name": "a-love-by-the-sea",
+      "title": "A Love By The Sea",
+      "year": 1888,
+      "mood": "happy",
+      "isWellKnown": true,
+      "authorName": "henley-w-e"
+    },
+    {
+      "name": "invictus",
+      "title": "Invictus",
+      "year": 1888,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "henley-w-e"
+    },
+    {
+      "name": "as-i-grew-older",
+      "title": "As I Grew Older",
+      "year": 1925,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "hughes-l"
+    },
+    {
+      "name": "dreams",
+      "title": "Dreams",
+      "year": 1951,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "hughes-l"
     },
     {
       "name": "borodino",
@@ -612,6 +1004,38 @@
       "authorName": "pasternak-b-l"
     },
     {
+      "name": "a-dream-within-a-dream",
+      "title": "A Dream Within A Dream",
+      "year": 1849,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "poe-e-a"
+    },
+    {
+      "name": "annabel-lee",
+      "title": "Annabel Lee",
+      "year": 1849,
+      "mood": "sad",
+      "isWellKnown": true,
+      "authorName": "poe-e-a"
+    },
+    {
+      "name": "a-girl",
+      "title": "A Girl",
+      "year": 1913,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "pound-e"
+    },
+    {
+      "name": "in-a-station-of-the-metro",
+      "title": "In a Station of the Metro",
+      "year": 1913,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pound-e"
+    },
+    {
       "name": "bezumnyh-let-ugasshee",
       "title": "Элегия",
       "description": "(Безумных лет угасшее веселье...)",
@@ -729,6 +1153,30 @@
       "authorName": "pushkin-a-s"
     },
     {
+      "name": "a-fairy-song",
+      "title": "A Fairy Song",
+      "year": 1951,
+      "mood": "happy",
+      "isWellKnown": true,
+      "authorName": "shakespeare-w"
+    },
+    {
+      "name": "all-the-worlds-a-stage",
+      "title": "All The World's A Stage",
+      "year": 1599,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "shakespeare-w"
+    },
+    {
+      "name": "shall-i-compare-thee-to-a-summer-s-day",
+      "title": "Shall I Compare Thee To A Summer's Day?",
+      "year": 1608,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "shakespeare-w"
+    },
+    {
       "name": "test",
       "title": "Винни-Пух",
       "description": "Из далекого детства...",
@@ -736,6 +1184,22 @@
       "mood": "happy",
       "isWellKnown": true,
       "authorName": "test-a-t"
+    },
+    {
+      "name": "and-death-shall-have-no-dominion",
+      "title": "And Death Shall Have No Dominion",
+      "year": 1933,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "thomas-d"
+    },
+    {
+      "name": "do-not-go-gentle-into-that-good-night",
+      "title": "Do Not Go Gentle Into That Good Night",
+      "year": 1951,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "thomas-d"
     },
     {
       "name": "charodejkoyu-zimoyu",
@@ -802,6 +1266,22 @@
       "mood": "happy",
       "isWellKnown": true,
       "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "a-character",
+      "title": "A Character",
+      "year": 1808,
+      "mood": "happy",
+      "isWellKnown": true,
+      "authorName": "barnes-w"
+    },
+    {
+      "name": "i-wandered-lonely-as-a-cloud",
+      "title": "I Wandered Lonely As A Cloud",
+      "year": 1807,
+      "mood": "happy",
+      "isWellKnown": true,
+      "authorName": "barnes-w"
     }
   ]
 }
